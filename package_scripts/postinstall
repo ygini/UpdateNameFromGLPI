@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/bin/launchctl load /Library/LaunchDaemons/com.github.ygini.UpdateNameFromGLPI.plist
+
+exit 0
